@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\bin\Debug\netstandard2.0\NDViet.UT.WS.Tools.deps.json
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\bin\Debug\netstandard2.0\NDViet.UT.WS.Tools.dll
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\bin\Debug\netstandard2.0\NDViet.UT.WS.Tools.pdb
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.AssemblyInfo.cs
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.dll
+C:\Users\admin\Desktop\unit-test\NDViet.UT.WS\Tests\NDViet.UT.WS.Tools\obj\Debug\netstandard2.0\NDViet.UT.WS.Tools.pdb

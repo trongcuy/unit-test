@@ -1,0 +1,4 @@
+﻿Cảm ơn quý khách ##Name## đã đặt hàng tại MISA,
+MISA rất vui thông báo đơn hàng ##OrderId## của quý khách đã được tiếp nhận và đang trong quá trình xử lý.
+MISA sẽ thông báo đến quý khách ngay khi hàng chuẩn bị được giao.
+MISA xin cảm ơn quý khách.
